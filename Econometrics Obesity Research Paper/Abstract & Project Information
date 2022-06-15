@@ -1,0 +1,10 @@
+“Fast Food Availability & Its Impact on Obesity”
+
+Abstract: This paper questions whether obesity is impacted by fast food per capita. 
+Data is taken from all fifty states and analyzed in comparison with several regressors derived from multiple government and business databases. 
+With this research, I found significant variables that help explain the incidence of obesity, and I have also found that differences in obesity rates have higher 
+incidence among certain ethnic and racial groups.
+
+Tools/Techniques Used to Conduct & Analyze Research:
+	Multivariate Regression Modeling
+	Use of R software to create comprehensive regression models of data
